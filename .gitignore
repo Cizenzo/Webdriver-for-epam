@@ -3,3 +3,6 @@
 ################################################################################
 
 /Webdriver/obj
+/Webdriver/bin/Debug/netcoreapp3.0
+/Webdriver/.vs/Webdriver
+/.vs
