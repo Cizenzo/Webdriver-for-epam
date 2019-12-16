@@ -6,3 +6,5 @@
 /Webdriver/bin/Debug/netcoreapp3.0
 /Webdriver/.vs/Webdriver
 /.vs
+/Webdriver Specflow/.vs/Webdriver Specflow/v16
+/Webdriver Specflow/obj
