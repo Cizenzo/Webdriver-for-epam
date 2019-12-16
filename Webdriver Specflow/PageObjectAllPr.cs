@@ -5,7 +5,7 @@ using OpenQA.Selenium;
 using OpenQA.Selenium.Interactions;
 using OpenQA.Selenium.Support.PageObjects;
 
-namespace WebdriverAdvanced
+namespace Webdriver_Specflow
 {
     class PageObjectAllPr
     {

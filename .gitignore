@@ -8,3 +8,5 @@
 /.vs
 /Webdriver Specflow/.vs/Webdriver Specflow/v16
 /Webdriver Specflow/obj
+/Webdriver Specflow/.vs/Webdriver Specflow/DesignTimeBuild
+/Webdriver Specflow/bin/Debug/netcoreapp3.0

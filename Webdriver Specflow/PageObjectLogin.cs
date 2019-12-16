@@ -6,7 +6,7 @@ using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Interactions;
 using OpenQA.Selenium.Support.PageObjects;
 
-namespace WebdriverAdvanced
+namespace Webdriver_Specflow
 {
     class PageObjectLogin
     {
